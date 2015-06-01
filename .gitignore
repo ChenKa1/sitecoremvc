@@ -194,3 +194,29 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+App_Browsers/*.browser
+/App_Config/Include/*.config.disabled
+/App_Config/Include/*.config.example
+/App_Config/Include/Sitecore.*.config
+/App_Config/Include/ExperienceProfile/Sitecore.*.config
+/App_Config/Prefetch/
+/App_Config/Security/
+/App_Config/*.config
+/App_Data/*
+!/App_Data/serialization/
+/App_Data/serialization/web/
+/layouts/system/
+/layouts/QueryableRulesRunner.ascx
+/layouts/Sample*.as[cp]x
+/layouts/xmlcontrol.aspx
+/sitecore*/
+/temp/
+/upload/
+/xsl/system/
+/xsl/WebEdit/
+/xsl/sample rendering.xslt
+/[Dd]efault*
+/Global.asax
+/Web.config.Oracle
+/webedit.css
