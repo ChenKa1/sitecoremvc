@@ -1,0 +1,16 @@
+﻿---
+ID: 3d1920fe-c8ee-4552-a3aa-688d632efe77
+Parent: fa1cc1d9-0414-4965-b7ad-a8b10d33e778
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/SitecoreMVC/Social/SocialSettings/Facebook
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150615T160348
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

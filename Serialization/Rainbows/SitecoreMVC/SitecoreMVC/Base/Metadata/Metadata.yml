@@ -1,0 +1,16 @@
+﻿---
+ID: b4a5dd93-af0f-48e6-96df-826e12b3cd10
+Parent: 12d18392-df38-467f-b5e2-405845c2ed14
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/SitecoreMVC/Base/Metadata/Metadata
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150610T131046
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

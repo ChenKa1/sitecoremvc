@@ -1,0 +1,26 @@
+﻿---
+ID: 14e15ae0-cfb0-4567-909e-4ed183bf2cfd
+Parent: ecad926b-b1fe-41ae-bb9e-f0c5d8e13d85
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/SitecoreMVC/Base/BasePage
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Office/32x32/window_earth.png
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Value: {1930BBEB-7805-471A-A3BE-4858AC7CF696}|{12D18392-DF38-467F-B5E2-405845C2ED14}|{0A15C20A-D2E5-4855-BA45-5A0A6EAAC452}|{E6192D1B-4D0C-4C3B-8502-01B12D02C4C0}|{DF06A7CE-5F8E-416F-ACA7-039D188206F1}|{59ECD798-ADB0-4B04-ACEF-7FE2687335FD}|{B2139089-8711-4CCA-8B89-FD1EF3824EE5}|{89F2B638-F42B-4409-84A1-29CAB1BAA444}|{B42A4419-3461-459E-A47B-53FCFA6E19BA}|{D3C42721-7BC3-485E-836A-ECD2FBB03892}
+- ID: f7d48a55-2158-4f02-9356-756654404f73
+  # __Standard values
+  Value: {B86EDCFD-3667-4AEA-A392-634D349E6E99}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150721T015453Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

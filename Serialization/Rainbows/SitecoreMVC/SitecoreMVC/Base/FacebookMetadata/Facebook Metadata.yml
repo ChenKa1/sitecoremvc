@@ -1,0 +1,16 @@
+﻿---
+ID: 6258105a-9916-47e2-b32c-13946e5f5df1
+Parent: e6192d1b-4d0c-4c3b-8502-01b12d02c4c0
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/SitecoreMVC/Base/FacebookMetadata/Facebook Metadata
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150610T135013
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

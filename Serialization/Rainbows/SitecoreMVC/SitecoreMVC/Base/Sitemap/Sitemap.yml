@@ -1,0 +1,16 @@
+﻿---
+ID: 9a167b10-07b3-4f7e-b8f0-473388173b5b
+Parent: b42a4419-3461-459e-a47b-53fcfa6e19ba
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/SitecoreMVC/Base/Sitemap/Sitemap
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150610T133310
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

@@ -1,0 +1,23 @@
+﻿---
+ID: 62a43c23-a499-4b01-9063-9a38784b1230
+Parent: fbffd335-8b2f-4603-a8b2-716db07fd775
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/SitecoreMVC/Base/Canonical/Data/CanonicalLink
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: General Link
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 19a69332-a23e-4e70-8d16-b2640cb24cc8
+      # Title
+      Value: Canonical Link
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150803T020225Z

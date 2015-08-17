@@ -1,0 +1,19 @@
+﻿---
+ID: b86edcfd-3667-4aea-a392-634d349e6e99
+Parent: 14e15ae0-cfb0-4567-909e-4ed183bf2cfd
+Template: 14e15ae0-cfb0-4567-909e-4ed183bf2cfd
+Path: /sitecore/templates/SitecoreMVC/Base/BasePage/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150721T015728Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      # __Owner
+      Value: sitecore\admin
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

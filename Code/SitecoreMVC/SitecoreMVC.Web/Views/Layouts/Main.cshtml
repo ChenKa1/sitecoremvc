@@ -1,0 +1,27 @@
+﻿@using Sitecore.Mvc
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+
+    <!-- bundles for css -->
+    <!-- bundles for scripts -->
+
+    @Html.Action("GetMetadata", "Page")
+    @Html.Action("GetHeaderScripts", "Page")
+    @Html.Action("GetCanonicalLink", "Page")
+</head>
+<body>
+    @Html.Action("GetStartBodyScripts", "Page")
+    <header>
+        @Html.Sitecore().Placeholder("phHeader")
+    </header>
+    @Html.Sitecore().Placeholder("phContent")
+    <footer>
+        @Html.Sitecore().Placeholder("phFooter")
+    </footer>
+    @Html.Action("GetEndBodyScripts", "Page")
+</body>
+</html>

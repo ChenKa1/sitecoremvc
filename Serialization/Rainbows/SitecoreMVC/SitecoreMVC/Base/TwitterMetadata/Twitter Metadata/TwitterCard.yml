@@ -1,0 +1,26 @@
+﻿---
+ID: 7725744e-8ad6-4d05-92ef-fa427ea43886
+Parent: 719d640a-bb86-401c-aeb5-80f7e21af997
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/SitecoreMVC/Base/TwitterMetadata/Twitter Metadata/TwitterCard
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Single-Line Text
+- ID: b118496a-0f78-4a27-b55f-0a6c4b0b0fe1
+  # Default value
+  Value: summary
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 19a69332-a23e-4e70-8d16-b2640cb24cc8
+      # Title
+      Value: Twitter Card
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150610T134043

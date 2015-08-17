@@ -1,0 +1,23 @@
+﻿---
+ID: 60bd82b8-f868-4c1f-b095-938fdb7bfc2d
+Parent: 5c2ca3cc-f0a2-495d-8200-e2b2b85b7f75
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/SitecoreMVC/Base/Search/Search/ExcludeFromSearch
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Checkbox
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 19a69332-a23e-4e70-8d16-b2640cb24cc8
+      # Title
+      Value: Exclude From Search
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150610T133336

@@ -1,0 +1,20 @@
+﻿---
+ID: 36eb8ae1-28ad-468c-9308-79808642730b
+Parent: ecad926b-b1fe-41ae-bb9e-f0c5d8e13d85
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/SitecoreMVC/Base/Google Plus Metadata
+SharedFields:
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Value: {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20130822T140807
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
