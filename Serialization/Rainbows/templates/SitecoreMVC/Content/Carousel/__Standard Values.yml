@@ -1,0 +1,24 @@
+﻿---
+ID: 6d974836-19da-4ae4-97cd-246d90c65ff0
+Parent: 5a73018d-0b50-4786-9d44-8669cba5422f
+Template: 5a73018d-0b50-4786-9d44-8669cba5422f
+Path: /sitecore/templates/SitecoreMVC/Content/Carousel/__Standard Values
+SharedFields:
+- ID: 1172f251-dad4-4efb-a329-0c63500e4f1e
+  # __Masters
+  Type: TreelistEx
+  Value: {4BE7428D-5353-4C1B-BE98-9CC7A28B95C0}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150814T050937Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      # __Owner
+      Value: sitecore\admin
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

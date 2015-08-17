@@ -1,8 +1,8 @@
 ﻿---
-ID: 6545e09f-8f9e-4dd5-b2c3-39b509cd2524
-Parent: 4c6cbe67-748c-4f11-b74a-2f7910e5f5d0
-Template: e269fbb5-3750-427a-9149-7aa950b49301
-Path: /sitecore/templates/SitecoreMVC/Base/SiteSettings/Data
+ID: 5a36d5c0-cbd3-4d66-b58f-7263a30c60bc
+Parent: a6f054e1-61ee-4066-81f7-8124bae677e0
+Template: 0437fee2-44c9-46a6-abe9-28858d9fee8c
+Path: /sitecore/templates/SitecoreMVC/Pages
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: 25bed78c-4957-4165-998a-ca1b52f67497
       # __Created
-      Value: 20150731T004334Z
+      Value: 20150814T053749Z
     - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
       # __Created by
       Value: sitecore\admin

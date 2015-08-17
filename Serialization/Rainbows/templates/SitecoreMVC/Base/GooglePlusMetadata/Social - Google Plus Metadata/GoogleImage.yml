@@ -1,15 +1,15 @@
 ﻿---
-ID: 8352697e-d751-41ac-92a9-66c5fbf3bde4
+ID: e0a03651-b3a9-43b9-8a00-df57ae5501ab
 Parent: e598f263-b6bd-4fef-81e8-83588bbbf6e4
 Template: 455a3e98-a627-4b40-8035-e683a0331ac7
-Path: /sitecore/templates/SitecoreMVC/Base/Google Plus Metadata/Social - Google Plus Metadata/GoogleTitle
+Path: /sitecore/templates/SitecoreMVC/Base/GooglePlusMetadata/Social - Google Plus Metadata/GoogleImage
 SharedFields:
 - ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
   # Type
-  Value: Single-Line Text
+  Value: Image
 - ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
   # __Sortorder
-  Value: 100
+  Value: 250
 Languages:
 - Language: en
   Versions:
@@ -17,7 +17,7 @@ Languages:
     Fields:
     - ID: 25bed78c-4957-4165-998a-ca1b52f67497
       # __Created
-      Value: 20130822T144600
+      Value: 20130822T144615
     - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
       # __Owner
       Value: sitecore\admin

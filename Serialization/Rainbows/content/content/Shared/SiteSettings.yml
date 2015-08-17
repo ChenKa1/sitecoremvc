@@ -1,0 +1,28 @@
+﻿---
+ID: fdfe906f-90be-4af8-af67-332e3ac68e52
+Parent: 9257b46d-241c-4b79-9fd8-4ea95ff47bf6
+Template: 4c6cbe67-748c-4f11-b74a-2f7910e5f5d0
+Path: /sitecore/content/Shared/SiteSettings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 17620e5f-d461-4e26-a2af-9deac9c3d63a
+      # StartBodyScripts
+      Value: <!-- Global Start Body Scripts -->
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150814T050829Z
+    - ID: 4d9c59e3-478d-4e9d-8244-f19409e0623b
+      # EndBodyScripts
+      Value: <!-- Global End Body Scripts -->
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      # __Owner
+      Value: sitecore\admin
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: dbc23b96-67ab-48fb-92f4-3e988842d9af
+      # HeaderScripts
+      Value: <!-- Global Header Scripts -->

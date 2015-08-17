@@ -1,0 +1,28 @@
+﻿---
+ID: d12e3b5b-daa9-42cc-ae99-4c95f9641cfc
+Parent: 9257b46d-241c-4b79-9fd8-4ea95ff47bf6
+Template: fa1cc1d9-0414-4965-b7ad-a8b10d33e778
+Path: /sitecore/content/Shared/SocialSettings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20150814T050752Z
+    - ID: 52807595-0f8f-4b20-8d2a-cb71d28c6103
+      # __Owner
+      Value: sitecore\admin
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: 9a0a5709-2fa3-46b8-9e02-a0cb9afc3d0c
+      # OGSiteName
+      Value: FB Site Name
+    - ID: a79a0465-f420-4596-b728-2cc7b8a42958
+      # FBAdmins
+      Value: FB Admins
+    - ID: ecdd8698-c389-4cba-88a9-dd568d0af2e9
+      # TwitterSite
+      Value: Twitter Site
